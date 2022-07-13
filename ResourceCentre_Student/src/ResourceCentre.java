@@ -6,7 +6,7 @@ public class ResourceCentre {
 		//student 1 - Joey Fook
 		//student 2 - Kyra Chee
 		//student 3 - Lim Yi Xian
-		//student 4 - Yong Xing
+		//student 4 - Yong Xing Fu
 		
 		
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();

@@ -60,6 +60,7 @@ public class ResourceCentreTest {
 	public void testAddChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
+		
 		// Item list is not null, so that can add a new item
 		assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
 		
@@ -105,6 +106,7 @@ public class ResourceCentreTest {
 	public void testRetrieveAllChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
+		
 		// Test if Item list is not null but empty, so that can add a new item
 	    assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
 	    
@@ -129,7 +131,7 @@ public class ResourceCentreTest {
 
 	@Test
 	public void testDoLoanCamcorder() {
-
+		
 		//boundary
 		assertNotNull("test if there is valid Camcorder arraylist to loan from", camcorderList);
 		
@@ -163,6 +165,7 @@ public class ResourceCentreTest {
 	public void testDoLoanChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
+		
 		//boundary
 		assertNotNull("test if there is valid Chromebook arraylist to loan from", chromebookList);
 				
@@ -213,6 +216,7 @@ public class ResourceCentreTest {
 	public void testDoReturnChromebook() {
 		//fail("Not yet implemented");
 		// write your code here
+		
 	    // boundary
 	    assertNotNull("Test if there is valid Chromebook arraylist to add to", chromebookList);
 	    ResourceCentre.addChromebook(chromebookList, cb1);
