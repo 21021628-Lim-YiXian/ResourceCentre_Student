@@ -5,6 +5,7 @@ public class ResourceCentre {
 	public static void main(String[] args) {
 		//student 1 - Joey Fook
 		//student 2 - Kyra Chee
+		//student 3 - Lim Yi Xian
 		
 		
 		ArrayList<Camcorder> camcorderList = new ArrayList<Camcorder>();
